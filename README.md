@@ -1,5 +1,5 @@
 # simple-html-encoder
-A simple HTML encoder utility.
+A simple HTML encoder utility written in PHP.
 
 I first wrote a version of this when working as a web analyst to aid me in documenting code.
 
