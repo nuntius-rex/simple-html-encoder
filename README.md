@@ -7,5 +7,8 @@ More recently, I needed it during some of my tutorials to encode examples for Re
 
 I hope it is of some help to you.
 
+WARNING: This is just a quick tool to get a job done.
+This type of code would be dangerous on a live server if used improperly.
+
 Enjoy!
 ~Dan
