@@ -3,6 +3,7 @@
 // Simple HTML Encoder
 // by Dan Guinn
 // WARNING: NOT FOR USAGE ON A LIVE SERVER!
+// Note to class, hey guys!
 //===============================================
 
 if(isset($_POST["code"])){
